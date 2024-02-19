@@ -1,0 +1,6 @@
+# ninja log v5
+2	38	0	C:/Users/Ryder/Desktop/ITP380/labs-RyderBaez/Lab02/out/build/x64-Debug/CMakeFiles/cmake.verify_globs	bcf1c951217d3818
+49	495	7275063121825613	CMakeFiles/Lab02.dir/Core.obj	7c8b79cfa75daff5
+69	560	7275063122456491	CMakeFiles/Lab02.dir/Math.obj	5f198cd9751dad1e
+80	913	7275063125994347	CMakeFiles/Lab02.dir/Random.obj	2146bb7731158e31
+11	35	0	C:/Users/Ryder/Desktop/ITP380/labs-RyderBaez/Lab02/out/build/x64-Debug/CMakeFiles/cmake.verify_globs	bcf1c951217d3818
