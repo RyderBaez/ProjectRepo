@@ -1,4 +1,3 @@
-# EE250 Final Project:
 # Bop IoT
 
 # Ryder Baez, Eric Chen
